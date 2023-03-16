@@ -5,3 +5,4 @@
    * Tools :
      * BurpSuite
      * Dirb  
+     * ZapProxy (Not recommended for beginners)
