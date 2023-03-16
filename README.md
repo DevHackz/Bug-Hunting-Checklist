@@ -7,6 +7,7 @@
    https://youtu.be/gHFOefXzwz8
    
 # Checklist
+ Don't chase tools
 * Try Directory Brute Forcing  :
    * Tools :
      * BurpSuite
