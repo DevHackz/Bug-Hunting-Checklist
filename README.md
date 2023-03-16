@@ -3,7 +3,9 @@
 # Web Application
 
 # Find Sub-Domain :
-
+ YouTube Video In Hindi
+   https://youtu.be/gHFOefXzwz8
+   
 # Checklist
 * Try Directory Brute Forcing  :
    * Tools :
