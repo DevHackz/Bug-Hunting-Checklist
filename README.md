@@ -5,5 +5,8 @@
 # Web Application
    
 # Checklist
-*  1 Business logic bug :
+1  Business logic bug :
+2  Clickjacking :
+3  html injection :
+
 
