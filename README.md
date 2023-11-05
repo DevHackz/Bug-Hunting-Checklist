@@ -6,7 +6,7 @@
    
 # Bugs list ( For reference )
 * Business Logic Bug :
-* Clickjacking : how to find this go to http://web.clickjacker.io/
+* Clickjacking :
 * HTML Injection :
 * 500 Internal Error :
 * IDOR :
